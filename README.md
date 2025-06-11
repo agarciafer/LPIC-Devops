@@ -1,6 +1,6 @@
 # Curso de GIT
 
-# MiProyectoWeb
+# MiProyectoWeb-CNTG
 
 MiProyectoWeb es una aplicación web sencilla que permite gestionar tareas diarias. Está desarrollada usando tecnologías modernas para facilitar su uso y mantenimiento.
 
